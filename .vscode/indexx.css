@@ -1,0 +1,17 @@
+.p1 {
+    position:relative;
+    border:2px solid plum;
+    }
+    .p2 {
+    position:relative;
+    top:-20px
+    }
+    .container{
+        display:flex
+        flex-direction:
+    }
+    .container div{
+        background-color:  yellow;
+        border: 2px solid violet;
+        height: 120px;
+    }
